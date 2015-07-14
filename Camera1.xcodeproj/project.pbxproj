@@ -409,6 +409,7 @@
 				41D6533E1B54B2C200E34C60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 		41D6533F1B54B2C200E34C60 /* Build configuration list for PBXNativeTarget "Camera1Tests" */ = {
 			isa = XCConfigurationList;
@@ -417,6 +418,7 @@
 				41D653411B54B2C200E34C60 /* Release */,
 			);
 			defaultConfigurationIsVisible = 0;
+			defaultConfigurationName = Release;
 		};
 /* End XCConfigurationList section */
 	};
